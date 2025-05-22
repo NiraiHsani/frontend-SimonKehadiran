@@ -747,7 +747,7 @@ class KelasController extends Controller
 ## ✅ JALANKAN FRONTEND
 
 ```bash
-cd D:/frontend
+cd D:/frontend/simon-kehadiran
 php artisan serve
 ```
 
