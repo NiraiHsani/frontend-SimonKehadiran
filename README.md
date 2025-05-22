@@ -247,41 +247,6 @@ http://localhost:8000
 ```bash
 code .
 ```
-
-- Pastikan kamu sudah menginstal `Node.js` dan `npm` jika ingin menjalankan fitur-fitur Vite seperti request API frontend.
-
----
-
-Kalau kamu juga ingin saya lanjutkan bagian setup controller, view, route, dan koneksi API CRUD user/kelas — tinggal bilang, ya!
-
-
-
-
-
-
-
-Anda bilang:
-tambahkan yang pilihan lain jika ingin buat folder frontend di D, dan perintah perintah install laravel , perintah terminal bikin controller, view, sama routesnya
-
-
-ChatGPT bilang:
-Berikut adalah versi lengkap README (Markdown) untuk setup frontend Laravel, termasuk:
-
-Pilihan buat folder di D:\ (di luar laragon/www)
-
-Perintah install Laravel
-
-Perintah buat controller, view, dan route
-
-Konfigurasi .env
-
-Jalankan Laravel frontend
-
-Langsung copy-paste ke file README.md:
-
-markdown
-Salin
-Edit
 ---
 
 ## 🖥️ 2. SETUP FRONTEND (LARAVEL)
