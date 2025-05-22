@@ -161,16 +161,6 @@ Setelah frontend dan backend berhasil dihubungkan, lakukan pengujian API menggun
 - Gunakan metode HTTP yang sesuai: **GET, POST, PUT, DELETE**
 
 ---
-
-
-### 🖥️ 2. SETUP FRONTEND (LARAVEL)
-
-#### 📁 2.1 Buat folder frontend
-
-```bash
-cd D:
-laravel new frontend
-cd frontend
 ```
 
 ---
