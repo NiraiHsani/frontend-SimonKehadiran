@@ -54,7 +54,7 @@ cd backend
 #### ⬇️ 1.2 Clone project backend
 
 ```bash
-git https://github.com/NalindraDT/Simon-kehadiran.git simon-kehadiran
+git clone https://github.com/NalindraDT/Simon-kehadiran.git simon-kehadiran
 ```
 
 #### ⚙️ 1.3 Install dependency
